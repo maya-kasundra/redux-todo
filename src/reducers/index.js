@@ -4,7 +4,6 @@ import { combineReducers } from "redux";
 
 const reducer = combineReducers(
     {
-    //   myNumber:changeTheNumber
         changeTheNumber
     }
 );
